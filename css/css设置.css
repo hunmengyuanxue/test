@@ -1,0 +1,21 @@
+﻿h1{
+  color:blue;
+  text-align:center;
+}
+p{
+  color:green;
+  text-align:center;
+}
+img {
+  width: 800px;
+  margin: 0 auto;
+}
+html {
+  background-color: #f4e87f;
+}
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #72cefe;
+  border: 3px solid #522d05;
+}
