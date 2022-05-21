@@ -7,7 +7,7 @@
   </head>
   <body>
     <h1>魂梦怨雪</h1>
-    <img src="picture/魂梦怨雪.png" alt="魂梦怨雪头像">
+    <img src="https://user-images.githubusercontent.com/103264657/169656684-bf8747e6-7301-41f6-86b6-863ac8c32490.png" alt="魂梦怨雪头像">
     <h2>他是</h2>
     <ul>
       <li>小说作者</li>
